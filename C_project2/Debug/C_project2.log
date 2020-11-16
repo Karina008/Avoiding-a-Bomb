@@ -1,0 +1,86 @@
+﻿  bomb.c
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(122): warning C4244: '=': 'float'에서 'clock_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(198): warning C4305: '함수': 'double'에서 'float'(으)로 잘립니다.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(199): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(459): note: 'kbhit' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(200): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(208): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(210): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(218): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(219): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(258): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(260): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(289): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(291): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(361): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(363): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(372): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(374): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(386): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(388): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(395): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(408): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bombmain.h(410): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(384): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(459): note: 'kbhit' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(385): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(387): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(469): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(459): note: 'kbhit' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(470): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(472): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(643): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(657): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(658): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(663): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(682): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(683): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(688): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(699): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(700): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(701): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 'strcpy' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(722): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(728): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(738): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: 'fopen' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(768): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(775): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1197): note: 'fscanf' 선언을 참조하십시오.
+d:\park\프로젝트\c언어응용\c_project3\c_project2\bomb.c(784): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: 'getch' 선언을 참조하십시오.
+  C_project2.vcxproj -> D:\park\프로젝트\c언어응용\C_project3\Debug\C_project2.exe
